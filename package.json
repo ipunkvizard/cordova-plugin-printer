@@ -2,6 +2,7 @@
   "name": "cordova-plugin-printer-next",
   "version": "1.0.0",
   "description": "Prints HTML documents",
+  "types": "./types/index.d.ts",
   "cordova": {
     "id": "cordova-plugin-printer-next",
     "platforms": [
